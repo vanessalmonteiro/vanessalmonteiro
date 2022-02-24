@@ -14,7 +14,7 @@
   <img align="center" alt="Vanessa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Vanessa-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/6cb7332375ee45331683d964dfef0d73.gif">
+  <img align="right" alt="Vanessa-pic" height="120" style="border-radius:50px;" src="https://i.picasion.com/pic92/6cb7332375ee45331683d964dfef0d73.gif">
 </div>
   
 ##
