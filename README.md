@@ -1,6 +1,6 @@
 ### Oláa! Eu sou a Vanessa Monteiro 👋
 
-- 🎓 Graduanda em ADS (4° Período)
+- 👩🏻‍💻 Front-end
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ela/dela
 
