@@ -1,4 +1,4 @@
-### Oláa! Eu sou a Vanessa Monteiro 👋
+### Oláa, eu sou a Vanessa Monteiro 👋
 
 - 👩🏻‍💻 Front-end
 - 🌱 Estudando JavaScript
