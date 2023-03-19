@@ -16,8 +16,7 @@
   <img align="center" alt="Vanessa-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vanessa-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="Vanessa-pic" height="120" style="border-radius:50px;" src="https://i.picasion.com/pic92/6cb7332375ee45331683d964dfef0d73.gif">
-  <img align="right" alt="Vanessa-pic" height="120" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </div>
+</div>
   
 ##
   
