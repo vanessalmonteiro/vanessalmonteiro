@@ -15,7 +15,7 @@
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vanessa-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vanessa-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Vanessa-Sass" height="30" width="40" src="https://img.icons8.com/color/256/sass-avatar.png">
+  <img align="center" alt="Vanessa-Sass" height="30" width="40" src="[https://img.icons8.com/color/256/sass-avatar.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)">
   
 </div>
   
