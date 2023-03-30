@@ -1,7 +1,7 @@
 ### Oláa, eu sou a Vanessa Monteiro 👋
 
 - 👩🏻‍💻 Estudando JavaScript 
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ela/dela/she
 
 <div align="center">
   <a href="https://github.com/vanessalmonteiro">
