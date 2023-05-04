@@ -1,6 +1,6 @@
 ### Oláa, eu sou a Vanessa Monteiro 👋
 
-- 👩🏻‍💻 Estudando JavaScript e jQuery
+- 👩🏻‍💻 Estudando PHP 🐘
 - 😄 Pronouns: ela/dela/she
 
 <div align="center">
